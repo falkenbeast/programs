@@ -1,4 +1,4 @@
-package programs.progprac;
+ package programs.progprac;
 public class stacks 
 {
         int stk[] = new int [50];
